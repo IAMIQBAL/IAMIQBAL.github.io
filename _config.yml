@@ -23,7 +23,7 @@ timezone: Asia/Karachi
 
 title: Muhammad Iqbal                          # the main title
 
-tagline: The one who turns coffee into code   # it will display as the sub-title
+tagline: Rocats 🚀🐈   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Muhammad Iqbal
@@ -44,7 +44,7 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mib47225      # change to your twitter homepage
+    - https://twitter.com/0xiqb4l      # change to your twitter homepage
     - https://github.com/iamiqbal       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
