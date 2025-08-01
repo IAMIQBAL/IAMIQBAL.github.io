@@ -2,7 +2,7 @@
 title: The Hydra Corp | Arab CyberSecurity WarGames CTF
 author:
   name: iamiqbal
-  link: https://twitter.com/mib47225
+  link: https://twitter.com/0xiqb4l
 date: 2022-08-06 5:00:00
 categories: [ACSWG, OSINT]
 tags: [OSINT, exiftool]

@@ -2,7 +2,7 @@
 title: The Cod Caper | TryHackMe
 author:
   name: iamiqbal
-  link: https://twitter.com/mib47225
+  link: https://twitter.com/0xiqb4l
 date: 2022-08-04 11:00:00
 categories: [THM, BinaryExploitation]
 tags: [pwn, pwntools, Reversing, security]
